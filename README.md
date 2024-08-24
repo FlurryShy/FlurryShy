@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Dumbass with a degree, working on my social anxiety.
+
 <!--
 **FlurryShy/FlurryShy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
